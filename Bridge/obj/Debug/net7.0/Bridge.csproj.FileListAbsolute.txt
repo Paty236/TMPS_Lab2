@@ -1,0 +1,15 @@
+/Users/patyreitman/Projects/Bridge/Bridge/bin/Debug/net7.0/Bridge
+/Users/patyreitman/Projects/Bridge/Bridge/bin/Debug/net7.0/Bridge.deps.json
+/Users/patyreitman/Projects/Bridge/Bridge/bin/Debug/net7.0/Bridge.runtimeconfig.json
+/Users/patyreitman/Projects/Bridge/Bridge/bin/Debug/net7.0/Bridge.dll
+/Users/patyreitman/Projects/Bridge/Bridge/bin/Debug/net7.0/Bridge.pdb
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.csproj.AssemblyReference.cache
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfoInputs.cache
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfo.cs
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.dll
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/refint/Bridge.dll
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.pdb
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/Bridge.genruntimeconfig.cache
+/Users/patyreitman/Projects/Bridge/Bridge/obj/Debug/net7.0/ref/Bridge.dll
