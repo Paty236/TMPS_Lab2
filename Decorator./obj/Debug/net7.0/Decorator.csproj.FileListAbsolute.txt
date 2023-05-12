@@ -1,0 +1,15 @@
+/Users/patyreitman/Projects/Decorator/Decorator/bin/Debug/net7.0/Decorator
+/Users/patyreitman/Projects/Decorator/Decorator/bin/Debug/net7.0/Decorator.deps.json
+/Users/patyreitman/Projects/Decorator/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
+/Users/patyreitman/Projects/Decorator/Decorator/bin/Debug/net7.0/Decorator.dll
+/Users/patyreitman/Projects/Decorator/Decorator/bin/Debug/net7.0/Decorator.pdb
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.AssemblyReference.cache
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.dll
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/refint/Decorator.dll
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.pdb
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
+/Users/patyreitman/Projects/Decorator/Decorator/obj/Debug/net7.0/ref/Decorator.dll
