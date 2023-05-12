@@ -1,0 +1,15 @@
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.AssemblyReference.cache
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfoInputs.cache
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfo.cs
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/patyreitman/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter
+/Users/patyreitman/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.deps.json
+/Users/patyreitman/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.runtimeconfig.json
+/Users/patyreitman/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.dll
+/Users/patyreitman/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.pdb
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.dll
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/refint/Adapter.dll
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.pdb
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.genruntimeconfig.cache
+/Users/patyreitman/Projects/Adapter/Adapter/obj/Debug/net7.0/ref/Adapter.dll
